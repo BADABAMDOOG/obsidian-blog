@@ -1,7 +1,11 @@
----
-title: Welcome to Quartz 4
----
+# 바밤둥의 Dev·Game 블로그
 
-Quartz is a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. Thousands of students, developers, and teachers publish personal notes, wikis, and [digital gardens](https://jzhao.xyz/posts/networked-thought) to the web.
+여기는 내 옵시디언 노트를 공개하는 공간입니다.  
+Unity/게임개발/일상 메모를 차근차근 올릴 예정!
 
-See the [official documentation](https://quartz.jzhao.xyz/) for more details.
+- C# 정리
+- 팀 프로젝트 정리
+- Unity 문제 해결 기록
+- 개인 공부 노트 링크
+
+더 자주 업데이트할게요. 🚀
